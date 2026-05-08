@@ -1,4 +1,4 @@
-# 🌍 WanderLust AI — Dynamic Trip Planner
+# 🌍 Go Amigos— Dynamic Trip Planner
 
 An AI-powered travel planning web app that generates personalized, day-by-day itineraries based on your destination, mood, budget, travel style, and constraints. Built with Next.js 15 and powered by Google Gemini 2.5 Pro.
 
